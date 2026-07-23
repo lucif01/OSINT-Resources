@@ -7,6 +7,7 @@ An original, ethics-first directory of open-source intelligence resources for re
 ## Quick navigation
 
 - [Search engines](docs/Search-Engines.md)
+- [Archives and historical web](docs/Archives.md)
 - [Username investigation](docs/Username-Search.md)
 - [Email investigation](docs/Email-OSINT.md)
 - [Phone investigation](docs/Phone-OSINT.md)
@@ -22,12 +23,15 @@ An original, ethics-first directory of open-source intelligence resources for re
 - [Cloud OSINT](docs/Cloud-OSINT.md)
 - [Social Media](docs/Social-Media.md)
 - [Images](docs/Images.md)
+- [Metadata extraction](docs/Metadata-Extraction.md)
 - [Geolocation](docs/Geolocation.md)
 - [Maps](docs/Maps.md)
 - [Cryptocurrency](docs/Cryptocurrency.md)
 - [Companies](docs/Companies.md)
 - [Government](docs/Government.md)
+- [Public records](docs/Public-Records.md)
 - [Transportation](docs/Transportation.md)
+- [Mobile and wireless OSINT](docs/Mobile-Wireless.md)
 - [Browser Extensions](docs/Browser-Extensions.md)
 - [AI OSINT](docs/AI-OSINT.md)
 - [Automation](docs/Automation.md)
@@ -66,7 +70,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md). Every proposed entry needs an of
 
 ## Statistics
 
-The catalogue currently contains **34 sections** and **144 reviewed resources**. The repository includes scripts to regenerate the index and validate Markdown/link format before contributions are merged.
+The catalogue currently contains **38 sections** and **164 reviewed resources**. The repository includes scripts to regenerate the index and validate Markdown/link format before contributions are merged.
 
 ## License
 

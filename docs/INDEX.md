@@ -1,6 +1,7 @@
 # Catalogue index
 
 - [AI OSINT](AI-OSINT.md) — 3 resources
+- [Archives and historical web](Archives.md) — 5 resources
 - [Automation](Automation.md) — 3 resources
 - [Browser Extensions](Browser-Extensions.md) — 3 resources
 - [Certificates](Certificates.md) — 3 resources
@@ -24,7 +25,10 @@
 - [LinkedIn](LinkedIn.md) — 2 resources
 - [Malware](Malware.md) — 4 resources
 - [Maps](Maps.md) — 7 resources
+- [Metadata extraction](Metadata-Extraction.md) — 5 resources
+- [Mobile and wireless OSINT](Mobile-Wireless.md) — 5 resources
 - [Phone investigation](Phone-OSINT.md) — 5 resources
+- [Public records](Public-Records.md) — 5 resources
 - [Search engines](Search-Engines.md) — 10 resources
 - [Social Media](Social-Media.md) — 3 resources
 - [Telegram](Telegram.md) — 2 resources
