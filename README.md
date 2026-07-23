@@ -12,10 +12,12 @@ An original, ethics-first directory of open-source intelligence resources for re
 - [Phone investigation](docs/Phone-OSINT.md)
 - [Domain intelligence](docs/Domain-Recon.md)
 - [DNS and passive DNS](docs/DNS.md)
+- [Code hosting intelligence](docs/Code-Hosting.md)
 - [Certificates](docs/Certificates.md)
 - [IP OSINT](docs/IP-OSINT.md)
 - [Malware](docs/Malware.md)
 - [Threat Intelligence](docs/Threat-Intelligence.md)
+- [Vulnerability intelligence](docs/Vulnerability-Intelligence.md)
 - [IOC Lookups](docs/IOC-Lookups.md)
 - [Cloud OSINT](docs/Cloud-OSINT.md)
 - [Social Media](docs/Social-Media.md)
@@ -64,7 +66,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md). Every proposed entry needs an of
 
 ## Statistics
 
-The catalogue currently contains **32 sections** and **118 reviewed starter resources**. The repository includes scripts to regenerate the index and validate Markdown/link format before contributions are merged.
+The catalogue currently contains **34 sections** and **144 reviewed resources**. The repository includes scripts to regenerate the index and validate Markdown/link format before contributions are merged.
 
 ## License
 

@@ -1,34 +1,36 @@
 # Catalogue index
 
-- [Search engines](Search-Engines.md) — 10 resources
-- [Username investigation](Username-Search.md) — 8 resources
-- [Email investigation](Email-OSINT.md) — 7 resources
-- [Phone investigation](Phone-OSINT.md) — 5 resources
-- [Domain intelligence](Domain-Recon.md) — 7 resources
-- [DNS and passive DNS](DNS.md) — 6 resources
-- [Certificates](Certificates.md) — 3 resources
-- [IP OSINT](IP-OSINT.md) — 5 resources
-- [Malware](Malware.md) — 4 resources
-- [Threat Intelligence](Threat-Intelligence.md) — 5 resources
-- [IOC Lookups](IOC-Lookups.md) — 3 resources
-- [Cloud OSINT](Cloud-OSINT.md) — 3 resources
-- [Social Media](Social-Media.md) — 3 resources
-- [Images](Images.md) — 3 resources
-- [Geolocation](Geolocation.md) — 3 resources
-- [Maps](Maps.md) — 3 resources
-- [Cryptocurrency](Cryptocurrency.md) — 3 resources
-- [Companies](Companies.md) — 3 resources
-- [Government](Government.md) — 3 resources
-- [Transportation](Transportation.md) — 3 resources
-- [Browser Extensions](Browser-Extensions.md) — 3 resources
 - [AI OSINT](AI-OSINT.md) — 3 resources
 - [Automation](Automation.md) — 3 resources
+- [Browser Extensions](Browser-Extensions.md) — 3 resources
+- [Certificates](Certificates.md) — 3 resources
 - [Cheat Sheets](Cheat-Sheets.md) — 3 resources
-- [LinkedIn](LinkedIn.md) — 2 resources
-- [Facebook](Facebook.md) — 2 resources
-- [Instagram](Instagram.md) — 2 resources
-- [X Twitter](X-Twitter.md) — 2 resources
-- [Telegram](Telegram.md) — 2 resources
+- [Cloud OSINT](Cloud-OSINT.md) — 3 resources
+- [Code hosting intelligence](Code-Hosting.md) — 7 resources
+- [Companies](Companies.md) — 3 resources
+- [Cryptocurrency](Cryptocurrency.md) — 3 resources
+- [Dark Web](Dark-Web.md) — 5 resources
 - [Discord](Discord.md) — 2 resources
+- [DNS and passive DNS](DNS.md) — 6 resources
+- [Domain intelligence](Domain-Recon.md) — 7 resources
+- [Email investigation](Email-OSINT.md) — 7 resources
+- [Facebook](Facebook.md) — 2 resources
+- [Geolocation](Geolocation.md) — 3 resources
+- [Government](Government.md) — 3 resources
+- [Images](Images.md) — 3 resources
+- [Instagram](Instagram.md) — 2 resources
+- [IOC Lookups](IOC-Lookups.md) — 3 resources
+- [IP OSINT](IP-OSINT.md) — 5 resources
+- [LinkedIn](LinkedIn.md) — 2 resources
+- [Malware](Malware.md) — 4 resources
+- [Maps](Maps.md) — 7 resources
+- [Phone investigation](Phone-OSINT.md) — 5 resources
+- [Search engines](Search-Engines.md) — 10 resources
+- [Social Media](Social-Media.md) — 3 resources
+- [Telegram](Telegram.md) — 2 resources
+- [Threat Intelligence](Threat-Intelligence.md) — 5 resources
+- [Transportation](Transportation.md) — 8 resources
+- [Username investigation](Username-Search.md) — 8 resources
 - [Video](Video.md) — 2 resources
-- [Dark Web](Dark-Web.md) — 2 resources
+- [Vulnerability intelligence](Vulnerability-Intelligence.md) — 7 resources
+- [X Twitter](X-Twitter.md) — 2 resources
