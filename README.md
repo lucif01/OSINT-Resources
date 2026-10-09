@@ -70,7 +70,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md). Every proposed entry needs an of
 
 ## Statistics
 
-The catalogue currently contains **38 sections** and **164 reviewed resources**. The repository includes scripts to regenerate the index and validate Markdown/link format before contributions are merged.
+The catalogue currently contains **38 sections** and **165 reviewed resources**. The repository includes scripts to regenerate the index and validate Markdown/link format before contributions are merged.
 
 ## License
 

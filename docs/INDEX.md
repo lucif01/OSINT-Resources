@@ -8,7 +8,7 @@
 - [Cheat Sheets](Cheat-Sheets.md) — 3 resources
 - [Cloud OSINT](Cloud-OSINT.md) — 3 resources
 - [Code hosting intelligence](Code-Hosting.md) — 7 resources
-- [Companies](Companies.md) — 3 resources
+- [Companies](Companies.md) — 4 resources
 - [Cryptocurrency](Cryptocurrency.md) — 3 resources
 - [Dark Web](Dark-Web.md) — 5 resources
 - [Discord](Discord.md) — 2 resources
