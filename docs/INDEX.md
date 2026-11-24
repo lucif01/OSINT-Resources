@@ -24,7 +24,7 @@
 - [IP OSINT](IP-OSINT.md) — 5 resources
 - [LinkedIn](LinkedIn.md) — 2 resources
 - [Malware](Malware.md) — 4 resources
-- [Maps](Maps.md) — 7 resources
+- [Maps](Maps.md) — 8 resources
 - [Metadata extraction](Metadata-Extraction.md) — 5 resources
 - [Mobile and wireless OSINT](Mobile-Wireless.md) — 5 resources
 - [Phone investigation](Phone-OSINT.md) — 5 resources
