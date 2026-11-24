@@ -1,6 +1,6 @@
 # Maps
 
-> Last updated: 2026-07-23 · 7 curated resources
+> Last updated: 2026-11-24 · 8 curated resources
 
 ## Introduction
 
@@ -17,6 +17,7 @@ This section collects reputable starting points for maps. Use every service lawf
 | NASA Worldview | [worldview.earthdata.nasa.gov](https://worldview.earthdata.nasa.gov/) | Browse near-real-time global imagery and science layers from NASA missions. | Web | Free | No |
 | USGS EarthExplorer | [earthexplorer.usgs.gov](https://earthexplorer.usgs.gov/) | Search and obtain USGS-managed aerial and satellite data by place, date, and collection. | Web | Free | No |
 | Sentinel Hub EO Browser | [apps.sentinel-hub.com](https://apps.sentinel-hub.com/eo-browser/) | Compare Sentinel and Landsat imagery with spectral visualizations and time-series tools. | Web | Free/Paid | No |
+| H1DR4 Incident Map | [h1dr4.dev/map](https://h1dr4.dev/map) | Browse published Police.uk incident records at approximate locations in England and Wales. | Web | Free | No |
 
 ## Notes
 
